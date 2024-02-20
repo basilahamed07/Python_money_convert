@@ -1,0 +1,3 @@
+forex_python
+art==5.7
+pytest==7.1.3
